@@ -61,7 +61,7 @@ Sub alphabetical_testing()
                     
                 Index = Index + 1
                 StartofYear = i + 1
-                
+                Volume = 0
                 
             Else
                 
